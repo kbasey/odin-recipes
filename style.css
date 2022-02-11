@@ -1,0 +1,49 @@
+
+* {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+.home {
+    list-style: none;
+    text-align: center;
+}
+
+a {
+    font-family: sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    color:grey;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px;
+    width: 500px;  
+}
+
+.head {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+ul {
+    font-size: 15px;
+}
+
+li {
+    font-size: 15px;
+}
